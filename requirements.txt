@@ -1,0 +1,16 @@
+requests>=2.31.0
+urllib3>=2.0.0
+typing-extensions>=4.0.0
+
+# Optional: For OpenAI integration
+# openai>=1.0.0
+
+# Optional: For Anthropic integration
+# anthropic>=0.18.0
+
+# Optional: For caching backend (Redis)
+# redis>=5.0.0
+
+# Dev/test
+pytest>=7.4.0
+pytest-cov>=4.1.0
